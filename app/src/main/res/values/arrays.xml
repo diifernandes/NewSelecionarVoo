@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="destinos_voo">
+        <item>Ibiza</item>
+        <item>Londres</item>
+        <item>Hamburgo</item>
+        <item>Madrid</item>
+    </string-array>
+
+    <string-array name="voos_disponiveis">
+        <item>Seg 22:20 - 31/08/2015</item>
+        <item>Seg 22:30 - 30/09/2015</item>
+        <item>Seg 22:40 - 31/10/2015</item>
+        <item>Seg 22:50 - 30/11/2015</item>
+    </string-array>
+
+
+
+</resources>

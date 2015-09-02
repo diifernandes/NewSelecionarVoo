@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewSelecionarVoo</string>
+
+    <string name="hello_world">Favor selecionar destino:</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto_bot_proximo">Proximo</string>
+    <string name="destino_voo_main">Destino</string>
+    <string name="voos_disponiveis">Voos Disponíveis</string>
+</resources>
